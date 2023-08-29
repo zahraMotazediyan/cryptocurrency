@@ -49,3 +49,7 @@
 .redPriceChange {
     color: rgba(255, 38, 38);
 }
+
+.marketCap {
+    color: gray;
+}
